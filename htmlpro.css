@@ -39,6 +39,10 @@ i, i a {
     font-weight: 400;
 }
 
+img {
+    width:100%;
+}
+
 
 /* Blinking cursor when strike-through */
 .custom { animation: blinker 1s linear infinite; }
