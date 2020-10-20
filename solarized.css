@@ -72,7 +72,10 @@ sub{
 }
 img {
     border:0;
-    width:50%
+    width: 40%;
+    display: block;
+    margin-left: 0;
+    margin-right: auto;
 }
 svg:not(:root){
     overflow:hidden
