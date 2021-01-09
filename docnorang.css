@@ -36,8 +36,7 @@ pre {
 }
 
 div#content {
-    border: 1px solid #bbb;
-    background: #fff;
+    background: #fafafa;
     margin: 0;
     padding: 3em;
 }
