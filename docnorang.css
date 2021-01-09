@@ -7,9 +7,9 @@ body {
     margin: 0px auto;
     padding: 1em;
     color: #000;
-    font-family: "Open Sans", "Bitstream Vera Sans", "Verdana", sans-serif;
+    font-family: "Roboto", "Bitstream Vera Sans", "Verdana", sans-serif;
     line-height: 1.4em;
-    font-size: 90%;
+    font-size: 125%;
 }
 
 code {
