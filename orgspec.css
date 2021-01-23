@@ -392,11 +392,6 @@ div.figure {
     #table-of-contents code {
         font-size: 12px;
     }
-
-    div.outline-2, #footnotes {
-        margin-left: 280px;
-        max-width: 960px;
-    }
 }
 
 @media screen and (max-width: 1024px) {
@@ -410,11 +405,6 @@ div.figure {
 
     h1.title {
         margin-left: 5%;
-    }
-
-    div.outline-2, #footnotes {
-        margin-left: 5%;
-        max-width: 90%;
     }
 }
 
