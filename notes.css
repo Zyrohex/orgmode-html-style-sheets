@@ -46,6 +46,17 @@ padding: 1em 2em;
 margin: 0 0 0.5em 0.5em;
 }
 
+#table-of-contents ul {
+    list-style: none;
+    padding-left:0;
+    font-weight: normal;
+}
+
+#table-of-contents div>ul>li {
+    margin-top: 1em;
+    font-weight: bold;
+}
+
 @import url('https://fonts.googleapis.com/css?family=Roboto|Roboto+Slab|Roboto+Mono|Rajdhani&display=swap');
 
 @font-face {
