@@ -39,7 +39,7 @@ pre {
 
 #table-of-contents {
 float: right;
-width: 50%;
+width: fit-content;
 background: #eee;
 font-size: 0.8em;
 padding: 1em 2em;
