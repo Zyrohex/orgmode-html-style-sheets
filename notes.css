@@ -71,6 +71,7 @@ blockquote {
   padding: 1.5em 0 0.5em;
   margin: 1.5em 0;
   position: relative;
+  overflow: auto;
 }
 blockquote:before {
   content: '\201C';
