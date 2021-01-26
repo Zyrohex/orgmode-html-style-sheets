@@ -44,23 +44,23 @@ pre {
 }
 
 #table-of-contents {
-float: right;
-width: fit-content;
-background: #eee;
-font-size: 0.8em;
-padding: 1em 2em;
-margin: 0 0 0.5em 0.5em;
+    float: right;
+    width: fit-content;
+    background: #eee;
+    font-size: 0.8em;
+    padding: 1em 2em;
+    margin: 0 0 0.5em 0.5em;
 }
 
 #table-of-contents ul {
-    list-style: none;
-    padding-left:0;
-    font-weight: normal;
+  list-style: none;
+  padding-left:0;
+  margin-top:.5em,
+  font-weight: normal;
 }
 
-#table-of-contents div>ul>li {
-    margin-top: 1em;
-    font-weight: bold;
+#table-of-contents div>ul>li>ul>li {
+  margin-top: 1em;
 }
 
 blockquote {
