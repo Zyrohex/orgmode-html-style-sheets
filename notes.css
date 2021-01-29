@@ -43,6 +43,10 @@ pre {
     padding: .8571429em 1.1428571em;
 }
 
+div.MathJax_Display {
+    font-size: 30px;
+}
+
 #table-of-contents {
     float: right;
     width: fit-content;
