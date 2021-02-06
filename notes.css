@@ -30,6 +30,12 @@ img {
     height: auto;
 }
 
+code {
+    background-color: #eee8d5;
+    font-family: "Roboto Mono";
+    padding: 2px;
+}
+
 pre {
     color: #1f2933;
     background-color: #f5f7fa;
